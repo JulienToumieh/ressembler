@@ -6,7 +6,6 @@ It involves conversion of Ressembly source code to C++ and custom Binaries that 
 The conversion involves Lexical Analysis, Syntax Analysis, Semantic Trees, and Semantic Evaluation & Analysis.
 The UI is implemented using the Raylib framework using the C & C++ programming languages.
 
----
 ## About The Language - Ressembly
 ### Architecture
 - A memory tape containing 16 cells that can be manipulated through operators to program complex logic.
